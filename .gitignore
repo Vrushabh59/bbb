@@ -1,0 +1,12 @@
+# Artifacts from `npm pack`
+*.tgz
+
+# OSX
+*.DS_Store
+
+# Browserstack automated testing
+*/bs_app_url.txt
+DailyPlayground/android/browserstackAPKs/*
+
+# dev scripts
+DailyPlayground/dev_scripts/variables.sh
